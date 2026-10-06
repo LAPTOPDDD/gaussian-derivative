@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+data/
+batch_results/
+*.csv
+*.npy
+*.npz
